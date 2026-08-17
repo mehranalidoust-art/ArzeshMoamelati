@@ -1,0 +1,6 @@
+{
+  "name": "سامانه محاسبه ارزش منطقه‌ای ملک (ماده ۶۴)",
+  "description": "محاسبه ارزش معاملاتی عرصه و اعیانی املاک بر اساس ضوابط اجرایی ماده ۶۴ قانون مالیات‌های مستقیم با امکان ذخیره سوابق و دیتابیس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
